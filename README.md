@@ -1,13 +1,13 @@
-# OraWings - Releases
+# OraWings — Releases
 
-Ce depot ne contient **pas** le code source d'OraWings. Il heberge uniquement :
+Ce dépôt ne contient **pas** le code source d'OraWings. Il héberge uniquement :
 
-- l'installateur Windows signe ;
+- l'installateur Windows signé ;
 - sa signature `.sig` ;
-- le manifeste `latest.json` utilise par l'auto-update.
+- le manifeste `latest.json` utilisé par l'auto-update.
 
-## Telecharger
+## Télécharger
 
-Derniere version : [Releases](../../releases/latest)
+Dernière version : [Releases](../../releases/latest)
 
-Le code source reste prive.
+Le code source reste privé.
